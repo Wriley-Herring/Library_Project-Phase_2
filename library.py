@@ -1,5 +1,4 @@
 '''
-Created on Jun 15, 2020
 
 @author: wrileyherring
 '''
